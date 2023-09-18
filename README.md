@@ -1,6 +1,7 @@
 #Heart disease prediction
+
 ![heart](https://github.com/abayomi-hayes/Heart-disease-prediction/assets/119630129/5451f69b-8c55-41e4-b475-b8014da1967f)
-isease-prediction
+
 Predicting heart disease from three different dataset
 a deep learning model was applied to one of the dataset, binarization, one hot encoding when needed
 
